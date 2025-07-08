@@ -15,7 +15,7 @@ print(1.234)  # float 這是浮點數
 print("apple")  # str 這是字串 "sadasd123125557", '1'
 print(True)  # bool 這是布林值 True/False
 print(False)  # bool 這是布林值 True/False
-
+#
 # 變數
 a = 10  # 新增一個儲存空間並取名為a, "="的功能是將右邊的值10存入左邊的a
 print(a)  # 在終端機顯示a所存的值
